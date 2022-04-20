@@ -6,7 +6,7 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 
 I'm
-Full Stack Webdeveloper
+Full Stack Webdeveloper.
 The crossover between design and programming has always been of interest to me,  I have a Good  skills that include C++, Java and SQL.
 back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,cassendra,Mysql).Flair for exploring new technologies
 
