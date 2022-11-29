@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Harshavardhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/harshavardhan-t-b8b975231/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Harshavardhan-yellow)](https://stackoverflow.com/users/18847950/harshavardhan-t)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
+
 
 I'm
 Full Stack Webdeveloper.
